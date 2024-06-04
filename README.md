@@ -1,0 +1,2 @@
+# CalcMoney
+Salário no Japão
